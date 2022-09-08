@@ -1,0 +1,111 @@
+.space{
+    padding-top: 100px;
+}
+
+.frida{
+    width: 250px;
+    height: 400px;   
+    border-radius: 10%; 
+}
+
+.levis{
+    width: 300px;
+    height: 400px; 
+    border-radius: 10%;
+}
+
+.webbdesignskolan, .kullaberg, .skk{
+    text-decoration: none;
+    color: #FAF;
+    margin-left: 40px;
+}
+
+.contact-me{
+    margin: 20px;
+}
+
+
+figure{
+    text-align: center;
+}
+
+
+
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 20px;
+    background-color: rgb(78, 132, 234);
+    text-align: center;
+}
+
+li{
+    display: inline;
+    margin-left: 20px;
+    margin-right: 20px; 
+}
+
+
+a{
+    color: #FAF;
+    background-color: black;
+    text-decoration: none;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+a:hover{
+    background-color: purple;
+    text-decoration: underline;
+}
+
+
+h1, h2{
+    color: #FAF;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    font-size: 35px;
+}
+
+h4{
+     margin-left: 60px;
+     margin-top: 50px;
+     color: #FAF;
+     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h5{
+    text-decoration: underline;
+    padding-left: 40px; 
+    color: #FAF;      
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 16px;
+}
+
+p{
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+input, label, textarea{
+    margin: 5px;
+}
+
+input, textarea{
+    font-style: italic;
+}
+
+blockquote{
+    text-align: center;
+}
+
+footer{
+    border-top: 2px solid black;
+    margin-top: 40px;
+    text-align: center;
+    font-style: italic;
+    font-size: 12px;
+}
+
+
